@@ -1,0 +1,19 @@
+version: "3"
+
+services:
+  kalaha-api:
+    build: 
+      context: ./kalaha-api
+    container_name: kalaha-api
+    image: kalaha-api:1
+    ports:
+      - 8080:8080
+  kalaha-app:
+    build:
+      context: ./kalaha-app
+    container_name: kalaha-app
+    image: kalaha-app:1    
+    volumes:
+      - ./src:/usr/app/src
+    ports:
+      - 3000:3000

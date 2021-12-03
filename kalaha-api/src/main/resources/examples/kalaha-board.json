@@ -1,0 +1,61 @@
+{
+  "playerTurn": "A",
+  "pits": [
+    {
+      "pitIndex": 1,
+      "stones": 6
+    },
+    {
+      "pitIndex": 2,
+      "stones": 6
+    },
+    {
+      "pitIndex": 3,
+      "stones": 6
+    },
+    {
+      "pitIndex": 4,
+      "stones": 6
+    },
+    {
+      "pitIndex": 5,
+      "stones": 6
+    },
+    {
+      "pitIndex": 6,
+      "stones": 6
+    },
+    {
+      "pitIndex": 7,
+      "stones": 0
+    },
+    {
+      "pitIndex": 8,
+      "stones": 6
+    },
+    {
+      "pitIndex": 9,
+      "stones": 6
+    },
+    {
+      "pitIndex": 10,
+      "stones": 6
+    },
+    {
+      "pitIndex": 11,
+      "stones": 6
+    },
+    {
+      "pitIndex": 12,
+      "stones": 6
+    },
+    {
+      "pitIndex": 13,
+      "stones": 6
+    },
+    {
+      "pitIndex": 14,
+      "stones": 0
+    }
+  ]
+}
